@@ -5,7 +5,7 @@ array=[1,2,3]
   counter=0
   while counter < array.size do
 #    if array[counter]== value_to_find
-      puts counter == true
+      puts counter == counter
 #    else
       counter += 1
   end
