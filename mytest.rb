@@ -4,8 +4,15 @@ value_to_find=3
 
   counter=0
   while counter < array.size do
-      array[counter]== value_to_find
-      puts "yasasin"
+if array[counter]== value_to_find
+   puts "yasasin"
+  
+else
+  puts "not lucky"
+  
+end
+
+   
 
 #    else
       counter += 1
