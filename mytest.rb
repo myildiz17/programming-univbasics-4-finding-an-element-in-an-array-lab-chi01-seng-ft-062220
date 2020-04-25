@@ -1,6 +1,6 @@
 
 array=[1,2,3]
-
+value_to_find=3
 #def find_in_array (array,value_to_find)
   counter=0
   while counter < array.size do
