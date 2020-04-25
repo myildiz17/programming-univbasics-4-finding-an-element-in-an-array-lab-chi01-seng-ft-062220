@@ -9,4 +9,3 @@ array=[1,2,3]
 #    else
       counter += 1
   end
-  
